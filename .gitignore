@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+.env
+/public/storage
+/storage/*.key
+*.log
+*.sql
+*.sqlite
+.DS_Store
+.idea
